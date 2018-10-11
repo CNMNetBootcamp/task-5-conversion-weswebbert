@@ -1,13 +1,3 @@
-## Task 4 ##
-### Shipping Rates ###
-Create a program calculates shipping rates on the following criteria:
-
-```
-2 lbs or less: 2$
-Over 2 but less than 6 lbs: $4
-Over 6 but less than 10lbs: $6
-Over 10lbs: $8
-```
-    
-Output the cost of shipping.
-
+## Task 5 ##
+### Conversion ###
+Create a program that converts cups to quarts/gallons and quarts to cups. The program shall ask the user what they want to convert, provide appropriate messages and output the result. The user will be given an option to quit or convert another measurement.
